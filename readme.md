@@ -1,7 +1,7 @@
 Shakespeare Text Analysis
 =========================
 
-This project provides an opportunity apply lists, dictionaries, and tuples to explore word use in the works of Shakespear.
+This project provides an opportunity apply lists, dictionaries, and tuples to explore word use in the works of Shakespeare.
 
 Tasks
 -----
