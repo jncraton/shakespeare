@@ -4440,7 +4440,7 @@ Why, here's he that was wont to thwack our general,
 Caius Marcius.
 
 First Servingman:
-Why do you say 'thwack our general '?
+Why do you say 'thwack our general'?
 
 Third Servingman:
 I do not say 'thwack our general;' but he was always
@@ -7927,7 +7927,7 @@ You cannot guess who caused your father's death.
 Boy:
 Grandam, we can; for my good uncle Gloucester
 Told me, the king, provoked by the queen,
-Devised impeachments to imprison him :
+Devised impeachments to imprison him:
 And when my uncle told me so, he wept,
 And hugg'd me in his arm, and kindly kiss'd my cheek;
 Bade me rely on him as on my father,
@@ -8388,7 +8388,7 @@ Than of his outward show; which, God he knows,
 Seldom or never jumpeth with the heart.
 Those uncles which you want were dangerous;
 Your grace attended to their sugar'd words,
-But look'd not on the poison of their hearts :
+But look'd not on the poison of their hearts:
 God keep you from them, and from such false friends!
 
 PRINCE EDWARD:
@@ -9812,7 +9812,7 @@ When scarce the blood was well wash'd from his hands
 Which issued from my other angel husband
 And that dead saint which then I weeping follow'd;
 O, when, I say, I look'd on Richard's face,
-This was my wish: 'Be thou,' quoth I, ' accursed,
+This was my wish: 'Be thou,' quoth I, 'accursed,
 For making me, so young, so old a widow!
 And, when thou wed'st, let sorrow haunt thy bed;
 And be thy wife--if any be so mad--
@@ -16475,7 +16475,7 @@ And in this state she gallops night by night
 Through lovers' brains, and then they dream of love;
 O'er courtiers' knees, that dream on court'sies straight,
 O'er lawyers' fingers, who straight dream on fees,
-O'er ladies ' lips, who straight on kisses dream,
+O'er ladies' lips, who straight on kisses dream,
 Which oft the angry Mab with blisters plagues,
 Because their breaths with sweetmeats tainted are:
 Sometime she gallops o'er a courtier's nose,
