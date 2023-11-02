@@ -22,7 +22,17 @@ You are provided with a [stopwords.txt](stopwords.txt) file. This file contains 
 
 When run, your program should produce output something like the following:
 
-
+```
+There are 202646 words in the text
+There are 13081 unique words in the text
+The most common word is 'the' which occurs 6283 times
+The top 5 words (excluding stop words) are:
+thou (1403 uses)
+thy (1059 uses)
+king (887 uses)
+shall (845 uses)
+thee (760 uses)
+```
 
 Data Sources
 ------------
