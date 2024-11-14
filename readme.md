@@ -3,6 +3,14 @@ Shakespeare Text Analysis
 
 This project provides an opportunity apply lists, dictionaries, and tuples to explore word use in the works of Shakespeare.
 
+Learning Outcomes
+-----------------
+
+After completing this lab, students will be able to:
+
+1. Identify appropriate Python tools to solve problems
+2. Sort data by related fields
+
 Tasks
 -----
 
