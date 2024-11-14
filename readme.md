@@ -3,6 +3,8 @@ Shakespeare Text Analysis
 
 This project provides an opportunity apply lists, dictionaries, and tuples to explore word use in the works of Shakespeare.
 
+![Book](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Title_page_William_Shakespeare%27s_First_Folio_1623.jpg/301px-Title_page_William_Shakespeare%27s_First_Folio_1623.jpg)
+
 Learning Outcomes
 -----------------
 
