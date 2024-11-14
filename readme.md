@@ -20,11 +20,8 @@ You will create a program that can process an [input text file](shakespeare.txt)
 
 1. The total number of words in the text
 2. The number of unique words in the text
-
-When counting unique words, it is expected that you will strip any punctuation from the left or right side of a word. For this purpose, the following characters should be stripped: `,.?!'":-&;`.
-
-In addition to stripping punctuation, words should also be counted and compared in lower case so that "The" is considered to be the same word as "the".
-
+    - When counting unique words, it is expected that you will strip any punctuation from the left or right side of a word. For this purpose, the following characters should be stripped: `,.?!'":-&;`.
+    - In addition to stripping punctuation, words should also be counted and compared in lower case so that "The" is considered to be the same word as "the".
 3. The most common word in the the text
 4. The top 5 words in the text excluding stop words
 
